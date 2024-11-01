@@ -1,5 +1,5 @@
 ## Bienvenid@ a mi perfil
-- 👋 Hola, soy @EleVG26
+- 👋 Hola, soy Elena
 - 💻 Actualmente estoy estudiando Ingeniería de Sistemas y he completado un curso de desarrollo full stack. Me interesa aprender cada día más sobre programación y tecnología.
 - 📚 Estoy aprendiendo Java (orientación a objetos), Spring Boot, bases de datos PostgreSQL, Python (programación funcional), análisis de grafos y cálculo de costo computacional.
 - 🤝 Me gustaría colaborar en proyectos de software que tengan un impacto positivo.
@@ -8,7 +8,7 @@
 - 🎙️ Dato curioso: Me encanta escuchar podcasts de historia mientras programo (soy fan de Diana Uribe).
 
 ## Welcome to my Profile
-- 👋 Hi, I’m @EleVG26
+- 👋 Hi, I’m Elena
 - 💻 I’m currently studying Systems Engineering and have completed a full stack development course. I'm passionate about learning more about programming and technology every day.
 - 📚 I’m currently learning Java (object-oriented programming), Spring Boot, PostgreSQL databases, Python (functional programming), graph analysis, and computational cost analysis.
 - 🤝 I’m looking to collaborate on software projects that make a positive impact.
